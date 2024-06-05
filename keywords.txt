@@ -1,0 +1,29 @@
+##############################################
+# Coloring Map For （BM42S3021-1）
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BM42S3021-1	KEYWORD1
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin KEYWORD2	
+readTemperature	KEYWORD2
+getThermocoupleType KEYWORD2
+getFWver	KEYWORD2
+setThermocoupleType	KEYWORD2
+sleep	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################	
+CHECK_OK 	LITERAL1 
+CHECK_ERROR 	LITERAL1	
+TIMEOUT_ERROR	LITERAL1   
+
+Type_K	LITERAL1
+Type_N	LITERAL1 
+Type_E	LITERAL1 
+Type_J	LITERAL1
+Type_R	LITERAL1
+
