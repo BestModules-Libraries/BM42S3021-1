@@ -8,6 +8,16 @@ BM42S3021-1
 The BM42S3021-1 is a thermocouple module from Best Modules, which uses the I2C communication method. This document provides the description of the BM42S3021-1 Arduino 
 Lib functions and how to install the Arduino Lib. The example uses the BMS23K302 module to demonstrate the function of reading temperature, etc.
 
+#### Applicable types:
+<div align=center>
+
+|Paet No.   |Description                              |
+|:---------:|:---------------------------------------:|
+|BM42S3021-1|Thermocouple Module|
+|BMS23K302  |Includes a BM42S3021-1and a K-type probe thermocouple|
+
+</div> 
+
 This library can be installed via the Arduino Library manager. Search for **BM42S3021-1**. 
 
 Repository Contents
