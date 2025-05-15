@@ -14,7 +14,7 @@ Lib functions and how to install the Arduino Lib. The example uses the BMS23K302
 |Paet No.   |Description                              |
 |:---------:|:---------------------------------------:|
 |BM42S3021-1|Thermocouple Module|
-|BMS23K302  |Includes a BM42S3021-1and a K-type probe thermocouple|
+|BMS23K302  |Includes a BM42S3021-1 and a K-type probe thermocouple|
 
 </div> 
 
